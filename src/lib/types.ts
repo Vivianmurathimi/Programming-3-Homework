@@ -1,5 +1,10 @@
 export interface Pet {
-	name: string
+	id: number;
+	name: string;
+	type: string;
+	adoptedBy?: number | null;
+	hunger?: number;
+	happiness?: number;
 }
 
 export interface User {
