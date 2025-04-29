@@ -1,2 +1,70 @@
 [
+  {
+    "id": 1,
+    "name": "june",
+    "passwordHash": "$2b$10$sIkIUIMaGSw7r2q.O8rGdu9lcNYlaN4.t5zVHClzuk7c3dmVuLgIe",
+    "budget": 40,
+    "inventory": {
+      "food": 4,
+      "toy": 4,
+      "treat": 4
+    },
+    "role": "user"
+  },
+  {
+    "id": 2,
+    "name": "admin",
+    "passwordHash": "$2b$10$4scww6bpGzykO.skkw6KEuGPQxWB9DpB507VKz3BLdGqr7eOB7puG",
+    "budget": 200,
+    "inventory": {
+      "food": 0,
+      "toy": 0,
+      "treat": 0
+    },
+    "role": "admin"
+  },
+  {
+    "id": 3,
+    "name": "jane",
+    "passwordHash": "$2b$10$TEbgul3JbW5yxTSWHAPKZOZBjI4wOpnYi0nYnjpQprMPZVoB613P.",
+    "budget": 200,
+    "inventory": {
+      "food": 1,
+      "toy": 0,
+      "treat": 0
+    }
+  },
+  {
+    "id": 4,
+    "name": "adam",
+    "passwordHash": "$2b$10$gnqwLXHDA/H9bl9EVeEY5efDL5KWQsaipcHq6Dezkqke0K0OgR6Q.",
+    "budget": 155,
+    "inventory": {
+      "food": 1,
+      "toy": 0,
+      "treat": 1
+    }
+  },
+  {
+    "id": 5,
+    "name": "tate",
+    "passwordHash": "$2b$10$eUd8H2ZSFa4n1sI00qGPDOo0tOEikY1SqJ9sqVvmVPbemDLfbVzgG",
+    "budget": 3,
+    "inventory": {
+      "food": 1,
+      "toy": 0,
+      "treat": 1
+    }
+  },
+  {
+    "id": 6,
+    "name": "vivian",
+    "passwordHash": "$2b$10$D3LGfxtOgvwglR0..f5xw.FG/c6f1eQrYmV09pC/7sVWzZQPiQjae",
+    "budget": 125,
+    "inventory": {
+      "food": 0,
+      "toy": 0,
+      "treat": 0
+    }
+  }
 ]
