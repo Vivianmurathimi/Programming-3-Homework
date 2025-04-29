@@ -1,2 +1,72 @@
 [
+  {
+    "id": 1,
+    "name": "alexandra",
+    "type": "puppy",
+    "adoptedBy": null,
+    "hunger": 50,
+    "happiness": 0
+  },
+  {
+    "id": 2,
+    "name": "Mittens",
+    "type": "kitten",
+    "adoptedBy": null,
+    "hunger": 0,
+    "happiness": 0
+  },
+  {
+    "id": 3,
+    "name": "michael",
+    "type": "puppy",
+    "adoptedBy": 3,
+    "hunger": 10,
+    "happiness": 80
+  },
+  {
+    "id": 4,
+    "name": "Whiskers",
+    "type": "kitten",
+    "adoptedBy": 5,
+    "hunger": 10,
+    "happiness": 80
+  },
+  {
+    "id": 5,
+    "name": "john lucas",
+    "type": "puppy",
+    "adoptedBy": 4,
+    "hunger": 0,
+    "happiness": 100
+  },
+  {
+    "id": 6,
+    "name": "sindey",
+    "type": "puppy",
+    "adoptedBy": null
+  },
+  {
+    "id": 7,
+    "name": "shonara",
+    "type": "puppy",
+    "adoptedBy": 1,
+    "hunger": 30,
+    "happiness": 30
+  },
+  {
+    "id": 8,
+    "name": "michelle",
+    "type": "kitten",
+    "adoptedBy": 6,
+    "hunger": 30,
+    "happiness": 30
+  },
+  {
+    "id": 9,
+    "name": "kittty",
+    "type": "puppy",
+    "adoptedBy": null,
+    "hunger": 50,
+    "happiness": 0
+  }
 ]

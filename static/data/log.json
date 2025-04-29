@@ -1,2 +1,174 @@
 [
+  {
+    "userId": 6,
+    "message": "vivian played with michelle (−$10)"
+  },
+  {
+    "userId": 6,
+    "message": "vivian fed michelle (−$5)"
+  },
+  {
+    "userId": 6,
+    "message": "vivian adopted michelle (−$20)"
+  },
+  {
+    "userId": 6,
+    "message": "vivian returned michelle (−$20)"
+  },
+  {
+    "userId": 6,
+    "message": "vivian adopted michelle (−$20)"
+  },
+  {
+    "userId": 1,
+    "message": "june played with shonara (−$10)"
+  },
+  {
+    "userId": 1,
+    "message": "june fed shonara (−$5)"
+  },
+  {
+    "userId": 1,
+    "message": "june adopted shonara (−$20)"
+  },
+  {
+    "userId": 1,
+    "message": "june returned shonara (−$20)"
+  },
+  {
+    "userId": 1,
+    "message": "june adopted shonara (−$20)"
+  },
+  {
+    "userId": 1,
+    "message": "june returned alexandra (−$20)"
+  },
+  {
+    "userId": 4,
+    "message": "adam played with john lucas (−$10)"
+  },
+  {
+    "userId": 4,
+    "message": "adam fed john lucas (−$5)"
+  },
+  {
+    "userId": 4,
+    "message": "adam fed john lucas (−$5)"
+  },
+  {
+    "userId": 4,
+    "message": "adam fed john lucas (−$5)"
+  },
+  {
+    "userId": 4,
+    "message": "adam fed john lucas (−$5)"
+  },
+  {
+    "userId": 4,
+    "message": "adam played with john lucas (−$10)"
+  },
+  {
+    "userId": 4,
+    "message": "adam fed john lucas (−$5)"
+  },
+  {
+    "userId": 5,
+    "message": "tate played with Whiskers (−$10)"
+  },
+  {
+    "userId": 5,
+    "message": "tate fed Whiskers (−$5)"
+  },
+  {
+    "userId": 5,
+    "message": "tate fed Whiskers (−$5)"
+  },
+  {
+    "userId": 5,
+    "message": "tate adopted Whiskers (−$20)"
+  },
+  {
+    "userId": 5,
+    "message": "tate returned Mittens (−$20)"
+  },
+  {
+    "userId": 5,
+    "message": "tate played with Mittens (−$10)"
+  },
+  {
+    "userId": 5,
+    "message": "tate adopted Mittens (−$20)"
+  },
+  {
+    "userId": 1,
+    "message": "june played with alexandra (−$10)"
+  },
+  {
+    "userId": 1,
+    "message": "june fed alexandra (−$5)"
+  },
+  {
+    "userId": 1,
+    "message": "june adopted alexandra (−$20)"
+  },
+  {
+    "userId": 1,
+    "message": "june returned alexandra (−$20)"
+  },
+  {
+    "userId": 1,
+    "message": "june played with alexandra (−$10)"
+  },
+  {
+    "userId": 4,
+    "message": "adam fed john lucas (−$5)"
+  },
+  {
+    "userId": 4,
+    "message": "adam fed john lucas (−$5)"
+  },
+  {
+    "userId": 4,
+    "message": "adam adopted john lucas (−$20)"
+  },
+  {
+    "userId": 4,
+    "message": "adam returned Mittens (−$20)"
+  },
+  {
+    "userId": 4,
+    "message": "adam played with Mittens (−$10)"
+  },
+  {
+    "userId": 4,
+    "message": "adam fed Mittens (−$5)"
+  },
+  {
+    "userId": 4,
+    "message": "adam fed Mittens (−$5)"
+  },
+  {
+    "userId": 4,
+    "message": "adam adopted Mittens (−$20)"
+  },
+  {
+    "userId": 3,
+    "message": "jane fed Rex (−$5)"
+  },
+  {
+    "userId": 3,
+    "message": "june  adopted Rex (−$20)"
+  },
+  {
+    "userId": 1,
+    "message": "june fed Buddy (−$5)"
+  },
+  {
+    "userId": 1,
+    "message": "june fed Buddy (−$5)"
+  },
+  "june adopted Buddy (−$20)",
+  "admin returned Rex (−$20)",
+  "admin played with Rex (−$10)",
+  "admin fed Rex (−$5)"
 ]
